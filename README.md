@@ -1,2 +1,7 @@
-# Talks
-En este repositorio se encuentra la descripción y materiales de todas las charlas que hemos dado
+# Kendo UI
+
+En esta sección encontrarás los materiales correspondientes a las charlas que hemos dado.
+
+No. | Charla | Fecha |
+------------ | ------------ |
+1 | [{TekCo} Hello World](https://github.com/TelerikColombia/HowTo/tree/master/Kendo-UI/Sabores-de-Kendo-UI) | 23/06/2016
