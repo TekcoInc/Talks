@@ -10,7 +10,7 @@ Fue una charla bastante amena y que estamos seguros brindó a los participantes 
 
 Hablamos también de las metas que tiene nuestro User Group y las ayudas que vamos a comenzar a ofrecer a todos los participantes, como por ejemplo el repositorio de [HowTo](https://github.com/TelerikColombia/HowTo) en el cual iremos colocando guías que serán fáciles de seguir y enseñarán cómo lograr una funcionalidad específica con algún producto de Telerik. Si no la has visitado, ¡este es el momento!
 
-Como toque de atención y agradecimiento a todos los que participaron, dimos premios: Algunos stickers, bolígrafos, y la persona más puntual se llevó a su casa una camiseta :)
+Como toque de atención y agradecimiento a todos los que participaron, dimos premios: Algunos stickers, bolígrafos, y la persona más puntual se llevó a su casa una camiseta :smiley:
 
 A todos los participantes gracias por ser parte de {TekCo} y tú, amigo lector, si aún no lo eres: ¡Únete!
 
