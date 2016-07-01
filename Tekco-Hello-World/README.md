@@ -18,4 +18,6 @@ A continuación compartimos algunas fotos de esta charla.
 
 <img src="https://cloud.githubusercontent.com/assets/19491547/16359472/6d397638-3afb-11e6-8afd-7e0f3af5101a.jpg" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/19491547/16359475/6d3b82ca-3afb-11e6-8c8b-aa8655b053fe.jpg" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/19491547/16359474/6d3ab5b6-3afb-11e6-9c27-cae72c9bdeea.jpg" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/19491547/16359476/6d3e4e9c-3afb-11e6-9b3a-aec43d8f2295.jpg" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/19491547/16359478/6d4b0060-3afb-11e6-86c0-d2afe89ecd13.jpg" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/19491547/16359477/6d3e999c-3afb-11e6-9ffb-96c293cf0686.jpg" width="90%"></img> 
 
+> En el folder *docs- puedes encontrar los slides de la charla.
+
 {TekCo}
